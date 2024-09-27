@@ -5,7 +5,11 @@ A simple chat application built with Node.js and Socket.IO, allowing users to jo
 ## Features
 - [x] basic setup done
 - [x] realtime update
-- [x] bot for notidication (in and out of user) 
+- [x] bot for notification (in and out of user) 
 - [x] simple chat 
 - [x] username
 - [x] room
+- [x] custom room
+- [x] better ui
+- [] room limit
+
