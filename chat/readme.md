@@ -11,5 +11,10 @@ A simple chat application built with Node.js and Socket.IO, allowing users to jo
 - [x] room
 - [x] custom room
 - [x] better ui
-- [] room limit
+- [x] room limit
+- [ ] pool features
+- [ ] group admin features
 
+
+## bugs and impovement list
+- [] count of how many have joined
