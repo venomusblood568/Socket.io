@@ -11,7 +11,7 @@ A simple chat application built with Node.js and Socket.IO, allowing users to jo
 - [x] room
 - [x] custom room
 - [x] better ui
-- [x] room limit
+- [x] room limit max 10 people can join the room and default is 5.
 - [ ] pool features
 - [ ] group admin features
 
