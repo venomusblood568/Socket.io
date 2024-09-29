@@ -19,7 +19,7 @@ nodemon server
 - [x] better ui
 - [x] room limit max 10 people can join the room and default is 5.
 - pool features
-    - [ ] frontend for making the poll
+    - [X] frontend for making the poll
     - [ ] backend
     - [ ] frontend of poll in message
 - [ ] group admin features
