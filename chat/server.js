@@ -55,8 +55,6 @@ io.on('connection', (socket) => {
             users: getRoomUser(user.room),
             limit: roomLimit[user.room],
         });
-
-        console.log(`${user.username} joined room: ${user.room}. Current users: ${roomUserCounts[user.room]}`);
     });
     
     // Listen for chatMessage
