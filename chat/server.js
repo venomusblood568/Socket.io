@@ -94,7 +94,6 @@ io.on('connection', (socket) => {
                 delete roomUserCounts[user.room];
             }
 
-            console.log(`${user.username} left room: ${user.room}. Current users: ${roomUserCounts[user.room]}`);
         }
     });
 });

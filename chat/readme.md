@@ -2,6 +2,12 @@
 
 A simple chat application built with Node.js and Socket.IO, allowing users to join different chat rooms and communicate in real-time.
 
+## How to run 
+- run the command
+```
+nodemon server
+```
+
 ## Features
 - [x] basic setup done
 - [x] realtime update
